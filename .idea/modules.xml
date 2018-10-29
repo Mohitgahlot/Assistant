@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Assistant.iml" filepath="$PROJECT_DIR$/.idea/Assistant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Mohit Gahlot/.idea/Blood Bank.iml" filepath="$PROJECT_DIR$/../Mohit Gahlot/.idea/Blood Bank.iml" />
+    </modules>
+  </component>
+</project>
